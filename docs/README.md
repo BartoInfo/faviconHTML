@@ -1,4 +1,4 @@
-# Título do Projeto
+# Acresentando Favicon ao Site
 
 [![GitHub license](https://img.shields.io/github/license/clcmo/template?style=for-the-badge)](https://github.com/clcmo/template)
 [![GitHub stars](https://img.shields.io/github/stars/clcmo/template?style=for-the-badge)](https://github.com/clcmo/template/stargazers)
@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/clcmo/template?style=for-the-badge)](https://github.com/clcmo/template/issues)
 [![GitHub donate](https://img.shields.io/github/sponsors/clcmo?color=pink&style=for-the-badge)](https://github.com/sponsors/clcmo)
 
-Descrição breve do projeto.
+Como implementar os elementos visuais externos.
 
 ## Começando
 Instruções para iniciar o projeto localmente.
